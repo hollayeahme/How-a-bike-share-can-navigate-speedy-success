@@ -7,6 +7,9 @@ output:
   html_document: default
 ---
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 #### Hello! I just completed the Google Data Analytics Professional Certificate Program on Coursera. As part of this course, students are required to complete a data analysis case study to showcase the skills learned throughout the course. I used Microsoft Excel & R for the data preparation and analysis and Tableau & R for the data visualization.
 
 ### BACKGROUND
