@@ -399,9 +399,7 @@ all_trips_v2 %>%
 #### According to the above visualization, even though Cyclistic have a higher number of annual member riders, their **casual riders rode significant longer distances averaging *3552.75 Seconds* (59.21 minutes) all through the days of the week** within the year of my analysis with more casual riders riding longer distance on weekends (especially **Fridays**). Annual members averaged only *850.07 seconds*(14.17 minutes) and rode longer distances on Saturday compared to other days of the week
 
 
-#### Please see below For more Visualization on this analysis, This was created on Tableau.
-
-![Dashboard 1 (1)](https://user-images.githubusercontent.com/105462826/173229021-2e227e3b-de0f-4cce-947d-84f75232ab76.png)
+#### For more Visualization on this analysis, click [here](https://public.tableau.com/app/profile/olayemi.oladapo/viz/CyclisicQuarterRides/Dashboard1). This is a Dashboard created on Tableau.
 
 
 #### The first viz shows the **Number of Rides in each quarter in Cyclistic** during the period used for the analysis. This Visualization reveals that **Q3 2019 had the highest number of total riders compared to the other quarters with Q1 2020 having the lowest total members**. This could be as a result of the seasons under review. Weather conditions can make or break a ride. Visibility, temperature, precipitation, and wind play a role in how well one can ride.
